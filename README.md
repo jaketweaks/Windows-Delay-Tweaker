@@ -72,7 +72,7 @@ If you’re not comfortable restoring Windows features, create a backup first.
 - Anyone tired of noisy, bloated Windows installs
 
 ---
-
+📁 What’s Included
 | File         | Purpose                                                                                 |
 | ------------ | --------------------------------------------------------------------------------------- |
 | `tweaks.exe` | One-click EXE tool that applies all deep Windows FPS & input delay tweaks automatically |
