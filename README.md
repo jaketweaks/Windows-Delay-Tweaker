@@ -73,16 +73,9 @@ If you’re not comfortable restoring Windows features, create a backup first.
 
 ---
 
-## 📁 What's Included
-
-| File                    | Purpose                                |
-|-------------------------|----------------------------------------|
-| `apply-tweaks.bat`      | Main batch script to apply tweaks      |
-| `restore-defaults.bat`  | Restores all removed features          |
-| `debloat-windows.ps1`   | Safe, selective system debloater       |
-| `low-latency.reg`       | Registry tweaks for input latency      |
-| `services-trim.reg`     | Cuts system services to <60            |
-| `README.md`             | Full documentation                     |
+| File         | Purpose                                                                                 |
+| ------------ | --------------------------------------------------------------------------------------- |
+| `tweaks.exe` | One-click EXE tool that applies all deep Windows FPS & input delay tweaks automatically |
 
 ---
 
